@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-03T14:05:16 IST" name="Default suite" finished-at="2023-09-03T14:05:55 IST" duration-ms="39198">
+    <groups>
+    </groups>
+    <test started-at="2023-09-03T14:05:16 IST" name="Default test" finished-at="2023-09-03T14:05:55 IST" duration-ms="39198">
+      <class name="com.Calculator.Testcases.TC_build1_001">
+        <test-method is-config="true" signature="configBeforeMethod()[pri:0, instance:com.Calculator.Testcases.TC_build1_001@3270d194]" started-at="2023-09-03T14:05:16 IST" name="configBeforeMethod" finished-at="2023-09-03T14:05:36 IST" duration-ms="20191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeMethod -->
+        <test-method signature="textAndClaer()[pri:0, instance:com.Calculator.Testcases.TC_build1_001@3270d194]" started-at="2023-09-03T14:05:36 IST" name="textAndClaer" finished-at="2023-09-03T14:05:52 IST" duration-ms="15313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textAndClaer -->
+        <test-method is-config="true" signature="configAfterMethod()[pri:0, instance:com.Calculator.Testcases.TC_build1_001@3270d194]" started-at="2023-09-03T14:05:52 IST" name="configAfterMethod" finished-at="2023-09-03T14:05:55 IST" duration-ms="3624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterMethod -->
+      </class> <!-- com.Calculator.Testcases.TC_build1_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
